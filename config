@@ -1,0 +1,31 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "Original"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano.git
+	fetch = +refs/heads/*:refs/remotes/Original/*
+[remote "Origina"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano.git
+	fetch = +refs/heads/*:refs/remotes/Origina/*
+[gui]
+	wmstate = normal
+	geometry = 1109x563+180+180 216 255
+[remote "Trabalho-Luciano1"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano.git
+	fetch = +refs/heads/*:refs/remotes/Trabalho-Luciano1/*
+[remote "Riveriosantiago"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano
+	fetch = +refs/heads/*:refs/remotes/Riveriosantiago/*
+[remote "Trabalholuciano1"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano
+	fetch = +refs/heads/*:refs/remotes/Trabalholuciano1/*
+[remote "origin"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[remote "trabalho"]
+	url = https://github.com/Riveriosantiago/Trabalho1-luciano.git
+	fetch = +refs/heads/*:refs/remotes/trabalho/*
